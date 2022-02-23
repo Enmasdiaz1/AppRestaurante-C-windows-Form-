@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Restaurante/1.0.0": {
+        "dependencies": {
+          "BussinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "Restaurante.dll": {}
+        }
+      },
+      "BussinessLayer/1.0.0": {
+        "runtime": {
+          "BussinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BussinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

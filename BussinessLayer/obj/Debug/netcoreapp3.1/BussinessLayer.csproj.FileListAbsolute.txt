@@ -1,0 +1,10 @@
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\Enmasdiaz\source\repos\Restaurante\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
